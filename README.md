@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karthickram96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthickram96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthick-ram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/karthick-ram" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6056634/karthick-ram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6056634/karthick-ram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthick-ram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/karthick-ram" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6056634/karthick-ram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6056634/karthick-ram" height="30" width="40" /></a>
 <a href="https://medium.com/@karthick_ram96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@karthick_ram96" height="30" width="40" /></a>
 </p>
 
