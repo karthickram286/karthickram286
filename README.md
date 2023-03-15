@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://karthickram.in](https://karthickram.in)
 
-- 📝 I regularly write articles on [https://karthickram.in/blog](https://karthickram.in/blog)
-
 - 📫 How to reach me **karthik.28696@gmail.com**
 
 - 📄 Know about my experiences [https://resume.karthickram.in](https://resume.karthickram.in)
