@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthick Ram</h1>
+<h1 align="center">Hi 👋, I'm Karthick Ramachandran</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthickram286&label=Profile%20views&color=0e75b6&style=flat" alt="karthickram286" /> </p>
